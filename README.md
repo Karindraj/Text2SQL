@@ -31,3 +31,20 @@ OUTPUTS
 ![Screenshot 2025-04-20 at 9 00 51 PM](https://github.com/user-attachments/assets/a620ab2f-c524-4492-9a9a-37a979aee0da)
 ![Screenshot 2025-04-20 at 9 01 03 PM](https://github.com/user-attachments/assets/93730d72-92ac-47e0-b077-2e683206e849)
 ![Screenshot 2025-04-20 at 9 01 09 PM](https://github.com/user-attachments/assets/1c040a38-1e8a-4e3d-8791-29fc483024e3)
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+
+  • Share — copy and redistribute the material in any medium or format
+  • Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+  • Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+    You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
