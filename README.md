@@ -11,3 +11,16 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-0aa984?logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-1e73be?logo=python&logoColor=white)
 ![image](https://github.com/user-attachments/assets/b8d3cb6e-a90c-4521-bc9b-4e799662b034)
+
+
+OUTPUTS
+
+![Screenshot 2025-04-20 at 8 59 09 PM](https://github.com/user-attachments/assets/a35e9be8-ff7b-41d7-bb04-0ab1b4fd778b)
+![Screenshot 2025-04-20 at 8 59 30 PM](https://github.com/user-attachments/assets/c0e08eb6-9827-4227-ab1b-4f02db608df4)
+![Screenshot 2025-04-20 at 8 59 49 PM](https://github.com/user-attachments/assets/7cb14620-a6e3-4819-aa22-f737e69c9f3f)
+![Screenshot 2025-04-20 at 9 00 08 PM](https://github.com/user-attachments/assets/70515791-2126-4255-b0b6-96a62d0cccc0)
+![Screenshot 2025-04-20 at 9 00 19 PM](https://github.com/user-attachments/assets/2d8bed0e-95e8-474d-ad73-99e36aa82a99)
+![Screenshot 2025-04-20 at 9 00 33 PM](https://github.com/user-attachments/assets/fd768b21-8e17-4af0-b042-dcffa0283352)
+![Screenshot 2025-04-20 at 9 00 51 PM](https://github.com/user-attachments/assets/a620ab2f-c524-4492-9a9a-37a979aee0da)
+![Screenshot 2025-04-20 at 9 01 03 PM](https://github.com/user-attachments/assets/93730d72-92ac-47e0-b077-2e683206e849)
+![Screenshot 2025-04-20 at 9 01 09 PM](https://github.com/user-attachments/assets/1c040a38-1e8a-4e3d-8791-29fc483024e3)
