@@ -10,3 +10,4 @@
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM%20Server-272727?logo=llama&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115%2B-0aa984?logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-1e73be?logo=python&logoColor=white)
+![image](https://github.com/user-attachments/assets/b8d3cb6e-a90c-4521-bc9b-4e799662b034)
