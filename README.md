@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/096065f2-22ab-408c-a56e-110b75674e5e)
-
+---
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-ff4b4b?logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0.3%2B-2ca5a5?logo=langchain&logoColor=white)
@@ -14,6 +14,10 @@
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-1e73be?logo=python&logoColor=white)
 ![image](https://github.com/user-attachments/assets/b8d3cb6e-a90c-4521-bc9b-4e799662b034)
 
+---
+![Uploading image.png…]()
+
+----
 
 OUTPUTS
 
